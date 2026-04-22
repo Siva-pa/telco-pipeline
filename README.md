@@ -1,4 +1,4 @@
-cat << 'EOF' > README.md
+
 # 🚀 Telco Data Cleaning & Transformation Pipeline
 
 An end-to-end automated data preprocessing pipeline built using **Python, Pandas, Scikit-learn, and Streamlit** to clean, transform, and standardize raw datasets for analytics and machine learning.
