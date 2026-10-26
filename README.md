@@ -78,7 +78,7 @@ TELCO-PIPELINE/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/telco-pipeline.git
+git clone https://github.com/Siva-pa/telco-pipeline.git
 cd telco-pipeline
 ```
 ## 2️⃣ Install Dependencies
